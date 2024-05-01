@@ -7,11 +7,11 @@ Created at: 1-5-2024
 2. Ibtro to defensive security
 3. Careers in cyber security
 ## Networking
-1.What is networking?
-2.Intro to LAN
-3.OSI Model
-4.Packets & franes
-5.Extending your network
+1.What is networking? <br>
+2.Intro to LAN <br>
+3.OSI Model <br>
+4.Packets & franes <br>
+5.Extending your network<br>
 ## How the web works
 1. DNS in detail
 2. HTTP in detail
