@@ -1,13 +1,13 @@
 # Pre-security
 # Table of content for the course : Pre security
-Created at: 1-5-2024 
+Created at: 1-5-2024 <br>
 Source: THM
 
-## Introduction of cyber security
+## Introduction of cyber security (16-4-2024)
 1. Intro to offensive security
 2. Ibtro to defensive security
 3. Careers in cyber security
-## Networking
+## Networking (1-5-2024)
 1. What is networking? <br>
 2. Intro to LAN <br>
 3. OSI Model <br>
