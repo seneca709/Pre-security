@@ -1,17 +1,18 @@
 # Pre-security
 # Table of content for the course : Pre security
 Created at: 1-5-2024 
+Source: THM
 
 ## Introduction of cyber security
 1. Intro to offensive security
 2. Ibtro to defensive security
 3. Careers in cyber security
 ## Networking
-1.What is networking? <br>
-2.Intro to LAN <br>
-3.OSI Model <br>
-4.Packets & franes <br>
-5.Extending your network<br>
+1. What is networking? <br>
+2. Intro to LAN <br>
+3. OSI Model <br>
+4. Packets & franes <br>
+5. Extending your network<br>
 ## How the web works
 1. DNS in detail
 2. HTTP in detail
